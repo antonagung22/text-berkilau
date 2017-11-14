@@ -1,0 +1,25 @@
+Directions :
+
+There's the way how to add a neon.css to your HTML document. 
+1. Put the neon.css on the specific directory or where's as you want.
+2. Make sure you include the correct path to access the neon.css
+3. Add id section in element tag for text that you created.
+3. Use the definition below to import the neon.css into your HTML document.
+
+== definiton ==
+for use the color, input the class element.
+
+<h1 id="neon" class="neon_the-color" Your Text</h1>
+
+id tag = neon
+color : 
+neon_purple
+neon_blue
+neon_green
+neon_yellow
+neon_red
+
+Thank you
+
+
+
